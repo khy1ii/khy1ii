@@ -42,9 +42,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khy1ii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khy1ii&layout=compact&theme=tokyonight&hide_border=true)
+[![khy1ii's github stats](https://streak-stats.demolab.com?user=khy1ii&theme=tokyonight&hide_border=true)](https://github.com/khy1ii)
 
 </div>
 
